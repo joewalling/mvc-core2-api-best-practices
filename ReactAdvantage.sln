@@ -46,22 +46,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74FA9AB4-04D9-4836-A2B9-7150BDE82D7E}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://wallinginfosystems.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = server\\api\\ReactAdvantage.API.csproj
-		SccProjectTopLevelParentUniqueName1 = ReactAdvantage.sln
-		SccProjectName1 = server/api
-		SccLocalPath1 = server\\api
-		SccProjectUniqueName2 = server\\domain\\ReactAdvantage.Domain.csproj
-		SccProjectTopLevelParentUniqueName2 = ReactAdvantage.sln
-		SccProjectName2 = server/domain
-		SccLocalPath2 = server\\domain
-		SccProjectUniqueName3 = server\\data\\EntityFramework\\ReactAdvantage.Data.EntityFramework.csproj
-		SccProjectTopLevelParentUniqueName3 = ReactAdvantage.sln
-		SccProjectName3 = server/data/EntityFramework
-		SccLocalPath3 = server\\data\\EntityFramework
-	EndGlobalSection
 EndGlobal
